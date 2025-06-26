@@ -57,7 +57,7 @@ src/
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/notes-backend.git
+git clone https://github.com/MuhammedshihadTP/Note_App_Server.git
 cd notes-backend
 npm install
 npm run dev
